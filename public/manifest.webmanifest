@@ -1,0 +1,10 @@
+{
+  "name": "Syed Sana Farhat — Full Stack Developer & AI/ML Student",
+  "short_name": "Sana Farhat",
+  "description": "Portfolio of Syed Sana Farhat, a Computer Science (AI & ML) undergraduate building full-stack web apps and data-driven software.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#221b3d",
+  "theme_color": "#221b3d",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
